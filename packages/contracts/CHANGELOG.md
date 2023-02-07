@@ -1,5 +1,17 @@
 # @sovryn/contracts
 
+## 0.0.4
+
+### Patch Changes
+
+- 1e0a47f: feat: load zero related contracts from zero sdk
+- 3e6ab79: SOV-1291: Convert page implementation
+- 99e26b4: SOV-1573: add trove contract
+- 2295c60: SOV-1513: resolve Zero SDK package issues
+- 3abac74: Feat/sov 1289 zero simplified rewards page
+- 01de1a2: SOV-1266: FastBTC bridge flow implementation
+- d02e9a7: Sov 1287 zero stability pool page implementation
+
 ## 0.0.3
 
 ### Patch Changes

@@ -1,5 +1,70 @@
 # frontend
 
+## 0.1.13
+
+### Patch Changes
+
+- 24faa56: SOV-1377: Zero: Chart - implement redemption buffer display
+- 6594de0: SOV-1355: bump sovryn-onboard package versions
+- f0273bc: SOV-1334: collateral surplus withdrawal history table
+- 3e6ab79: SOV-1291: Convert page implementation
+- f6a4c8c: SOV-1118: Zero: SP transactions history frame
+- 52285ef: SOV-1408: Clear errors when switching tabs
+- aca21ba: SOV-1617: Close LoC modal after completion
+- c19dac0: SOV-969: Tiledesk integration
+- 12abdff: SOV-1407: reset WC flow state after connect
+- 1f68f58: SOV-1492: Update Email Notification dialog copy
+- ac995c7: Sov 1096 notification stack component
+- 7533d8a: SOV-1446: Update Convert page copy
+- 8cbb2e3: SOV-1117: add stats component
+- 20c1b69: SOV-1417: add notifications to email alert dialog
+- 726d073: SOV-1451: fix: toWei crashing for values with large amount of decimals
+- c88ae8b: SOV-1484: Update styling
+- 1016a32: SOV-1120: Redemptions history frame
+- fdf6746: SOV-1603: Add Collateral surplus withdrawal table to History page
+- 202e52f: SOV-998: Zero Dashboard LoC Integration
+- 3abac74: Feat/sov 1289 zero simplified rewards page
+- d22fca6: SOV-1277: track current block number
+- 0df76c5: Feat/sov 1115 zero dashboard loc chart
+- b881d3f: SOV-1660: loc chart crashing app when user has no trove
+- a365510: SOV-1515: opening and repaying trove using DLLR
+- 01de1a2: SOV-1266: FastBTC bridge flow implementation
+- 3bdec6e: SOV-1597: Zero LoC chart only showing 8 LoCs
+  SOV-1604: Wallet Address not showing in chart tooltip
+- c6d90ff: SOV-1590: Remove hardcoded value in statistics
+- 7207cc3: SOV-1471: add data attributes to Convert page and Connect Wallet button
+- d02e9a7: Sov 1287 zero stability pool page implementation
+- 51a4ab6: SOV-1121: History page implementation
+- 577e88e: SOV-1610: Use BTC instead RBTC everywhere
+- 726c396: feat: add zero loans
+- 0fb23e2: SOV-1673: Fix "close line of credit" modal
+  SOV-1678: LOC -> Close -> DLLR option disappears from the drop down of tokens
+- 5a9078e: SOV-1310: Zero welcome dashboard banner implementation
+- c318e48: SOV-1629: Stats panels should be full width on mobile
+- 072ff76: SOV-1440: Integrate Getting Started popup
+- 3a7d41f: SOV-1506: Update Footer links
+- db49613: SOV-1473: Add asset icon to dropdowns
+- 30fb4fc: SOV-1472: add missing data attributes
+- Updated dependencies [1e0a47f]
+- Updated dependencies [3e6ab79]
+- Updated dependencies [2f2480a]
+- Updated dependencies [726c396]
+- Updated dependencies [ac995c7]
+- Updated dependencies [7533d8a]
+- Updated dependencies [99e26b4]
+- Updated dependencies [2295c60]
+- Updated dependencies [c096ac8]
+- Updated dependencies [3abac74]
+- Updated dependencies [01de1a2]
+- Updated dependencies [d02e9a7]
+- Updated dependencies [51a4ab6]
+- Updated dependencies [577e88e]
+- Updated dependencies [762eeae]
+- Updated dependencies [c51421d]
+- Updated dependencies [db49613]
+  - @sovryn/contracts@0.0.4
+  - @sovryn/ui@0.0.18
+
 ## 0.1.12
 
 ### Patch Changes
