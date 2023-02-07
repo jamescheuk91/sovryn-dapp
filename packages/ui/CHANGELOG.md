@@ -1,5 +1,21 @@
 # @sovryn/ui
 
+## 0.0.18
+
+### Patch Changes
+
+- 2f2480a: SOV-1517: fix numbers for input field
+- 726c396: fix: dialog component z-index
+- ac995c7: Sov 1096 notification stack component
+- 7533d8a: SOV-1446: Update Convert page copy
+- c096ac8: SOV-1625: add animation to notifications
+- d02e9a7: Sov 1287 zero stability pool page implementation
+- 51a4ab6: SOV-1121: History page implementation
+- 577e88e: SOV-1610: Use BTC instead RBTC everywhere
+- 762eeae: SOV-1367: close Wallet Menu when menu item selected
+- c51421d: SOV-1476: fix Select component always taking shortest item width
+- db49613: SOV-1473: Add asset icon to dropdowns
+
 ## 0.0.17
 
 ### Patch Changes
